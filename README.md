@@ -8,9 +8,16 @@ EO has been designed to solve single objective optimization problems. This algor
 
 EO performance is validated against 58 mathematical functions, including unimodal, multimodal, hybrid, and composition functions, as well as 3 engineering reference problems, and its performance is compared to three classes of optimization methods; GA and PSO as the best-studied metaheuristics, GWO, GSA, and SSA as newly developed algorithms, and CMA-ES, SHADE, and LSHADE-SPACMA as high-performance optimizers. A full statistical analysis revealed that EO is capable of significantly outperforming PSO, GA, GWO, GSA, SSA, and CMA-ES, while its performance is statistically similar to SHADE and LSHADE-SPACMA.
 
-
 ![Image](https://user-images.githubusercontent.com/70921862/123126538-14977400-d40f-11eb-9d08-847afdfe596a.png)
 
+We adding the next functions:
+
+- [Booth Function](https://www.sfu.ca/~ssurjano/booth.html)
+- [Bukin Function N. 6](https://www.sfu.ca/~ssurjano/bukin6.html)
+- [Rastrigin Function](https://www.sfu.ca/~ssurjano/rastr.html)
+- [Easom Function](https://www.sfu.ca/~ssurjano/easom.html)
+- [Schaffer Function N. 4](https://www.sfu.ca/~ssurjano/schaffer4.html)
+- [Styblinski-Tang Function](https://www.sfu.ca/~ssurjano/stybtang.html)
 
 
 # Table of Contents
