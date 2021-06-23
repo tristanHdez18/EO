@@ -1,6 +1,7 @@
 # Equilibrium-Optimizer
 
 # Description
+
 “The Equilibrium Optimizer (EO) is inspired by control volume mass balance models used to estimate both dynamic and equilibrium states. In EO, each particle (solution) with its concentration (position) acts as a search agent. The search agents randomly update their concentration with respect to best-so-far solutions, namely equilibrium candidates, to finally reach the equilibrium state (optimal result). A well-defined “generation rate” term is proven to invigorate EO’s ability in exploration.
 EO has been designed to solve single objective optimization problems. This algorithm has been implemented in a wide range of programming languages. You can download the source code at the end of this page."
 *Seyedali Mirjalili.*
@@ -16,6 +17,7 @@ EO performance is validated against 58 mathematical functions, including unimoda
 
 
 # Installation
+
 You can get started right away running this in your terminal:
 ```
 git clone https://github.com/tristanHdez18/EO.git
@@ -35,7 +37,19 @@ git clone https://github.com/tristanHdez18/EO.git
 
 **`Max_iteration`** _= Maximum number of iterations_
 
+**`Function_name`** _= Select function_
+
+## List of functions with function names added
+
+- Booth Function _= F24_
+- Bukin Function N. 6 _= F25_
+- Rastrigin Function _= F26_ 
+- Easom Function _= F27_
+- Schaffer Function N. 4 _= F28_
+- Styblinski-Tang Function _= F29_
+
 # Contributing
+
 # Credits
 
 Mirjalili, S. M. (s. f.). EO. seyedalimirjalili. Recovered June 23, 2021, de https://seyedalimirjalili.com/eo
