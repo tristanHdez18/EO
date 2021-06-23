@@ -10,6 +10,11 @@ EO performance is validated against 58 mathematical functions, including unimoda
 
 ![Image](https://user-images.githubusercontent.com/70921862/123126538-14977400-d40f-11eb-9d08-847afdfe596a.png)
 
+
+
+## Table of Contents
+
+## Test functions for single-objective optimization
 We adding the next functions:
 
 - [Booth Function](https://www.sfu.ca/~ssurjano/booth.html)
@@ -18,10 +23,6 @@ We adding the next functions:
 - [Easom Function](https://www.sfu.ca/~ssurjano/easom.html)
 - [Schaffer Function N. 4](https://www.sfu.ca/~ssurjano/schaffer4.html)
 - [Styblinski-Tang Function](https://www.sfu.ca/~ssurjano/stybtang.html)
-
-
-## Table of Contents
-
 
 ## Installation
 
