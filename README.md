@@ -14,6 +14,9 @@ EO performance is validated against 58 mathematical functions, including unimoda
 
 ## Table of Contents
 
+[Test Functions for Single-Objective Optimization](https://github.com/tristanHdez18/EO#Test-Functions-for-Single-Objective-Optimization)  
+[Emphasis](#emphasis)
+
 ## Test functions for single-objective optimization
 We adding the next functions:
 
