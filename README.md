@@ -67,6 +67,8 @@ git clone https://github.com/tristanHdez18/EO.git
 
 ## Contributing
 
+[Tristán Hernández](https://github.com/tristanHdez18)
+
 ## Credits
 
 Mirjalili, S. M. (s. f.). EO. seyedalimirjalili. Recovered June 23, 2021, de https://seyedalimirjalili.com/eo
